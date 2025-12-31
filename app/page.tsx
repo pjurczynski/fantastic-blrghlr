@@ -34,6 +34,9 @@ export default function Home() {
                 <>Brakuje {remaining} życzeń ozdrowienia!</>
               )}
             </div>
+            <div className="text-2xl md:text-3xl text-gray-700 mb-6">
+              (Zdrowotnego nowego roku)
+            </div>
           </div>
 
           <div className="mb-8">
