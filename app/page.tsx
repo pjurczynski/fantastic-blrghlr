@@ -1,4 +1,4 @@
-const CURRENT_COUNT = 54;
+const CURRENT_COUNT = 57;
 const GOAL = 123;
 
 export default function Home() {
